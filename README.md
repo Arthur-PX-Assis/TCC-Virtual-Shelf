@@ -1,1 +1,1 @@
-Não funciona mais pois perdi o acesso ao banco de dados
+As partes envolvendo o banco, o Select principalmente, não funcionam mais pois perdi o acesso
