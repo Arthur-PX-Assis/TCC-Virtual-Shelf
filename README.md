@@ -1,1 +1,1 @@
-As partes envolvendo o banco, o Select principalmente, não funcionam mais pois perdi o acesso
+As partes envolvendo o banco não funcionam devido a perca no acesso ao banco
